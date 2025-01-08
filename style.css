@@ -100,6 +100,11 @@
     border-radius: 25px;
     margin-top: 2rem;
   }
+
+  .hero{
+    padding-top: 7rem;
+    padding-bottom: 2rem;
+  }
   
   .hero-content{
     padding-left: 35px;
